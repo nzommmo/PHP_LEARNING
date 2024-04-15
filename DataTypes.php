@@ -1,4 +1,5 @@
 <?php
+//ARRAYS
 $bikes = array("Yamaha","Honda","Kawasaki");
 var_dump($bikes);
 echo "</br>";
