@@ -28,5 +28,21 @@ if ($nationality == "Kenyan"){
 echo "</br>";
 echo "</br>";
 
+// Switch method
+$num = 10;
+switch($num){
+    case 10:
+        echo ("Number is 10");
+        break;
+        case 20:
+            echo("Number is 20");
+            break;
+            case 30:
+                echo ("Number is 30");
+                break;
+                default:
+                echo("Number is not within range");
+
+}
 
 ?>
