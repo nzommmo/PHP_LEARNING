@@ -9,4 +9,8 @@ foreach($Season as $arr){
     echo "Season is: $arr <br/>";
 }
 
+echo "Memory Limit: " . ini_get('memory_limit');
+
+
+
 ?>
